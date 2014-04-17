@@ -1,0 +1,8 @@
+C:\Users\jwarnes\Desktop\dwmtest\bin\Debug\DwmTest.exe.config
+C:\Users\jwarnes\Desktop\dwmtest\bin\Debug\DwmTest.exe
+C:\Users\jwarnes\Desktop\dwmtest\bin\Debug\DwmTest.pdb
+C:\Users\jwarnes\Desktop\dwmtest\obj\Debug\DwmTest.MainForm.resources
+C:\Users\jwarnes\Desktop\dwmtest\obj\Debug\DwmTest.Properties.Resources.resources
+C:\Users\jwarnes\Desktop\dwmtest\obj\Debug\LocalAlert.csproj.GenerateResource.Cache
+C:\Users\jwarnes\Desktop\dwmtest\obj\Debug\DwmTest.exe
+C:\Users\jwarnes\Desktop\dwmtest\obj\Debug\DwmTest.pdb
